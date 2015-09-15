@@ -11,7 +11,7 @@
     "movies"
   ],
   "dependencies": {
-    "jsdom": "0.6.5"
+    "jsdom": "^3.0.1",
   },
   "directories": {
     "lib": "./lib/imdb"
